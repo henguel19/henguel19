@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @henguel19, I'm from Guatemala, I love software development, because I like solve problems with software based solutions, and I'm CS Student too (I finished my degree, but I have no title)
-- 👀 I’m interested in PHP and Java backend Development, and Android.
-<!---- 🌱 I’m currently learning Android using Java, because I think the phones are the actual and new way that users interact with software most often.--->
+- 👋 Hi, I’m @henguel19, I'm from Guatemala, I love software development, because I like solve problems with software based solutions, and I'm CS Engineer
+- 👀 I’m interested in PHP and Java backend Development.
 - 💞️ I’m looking to collaborate on PHP projects.
 
 <!---
